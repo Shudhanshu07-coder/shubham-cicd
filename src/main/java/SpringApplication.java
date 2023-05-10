@@ -4,6 +4,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringApplication {
 
     public void run(String ar[]) {
-
+        System.out.printf("hello");
     }
 }
